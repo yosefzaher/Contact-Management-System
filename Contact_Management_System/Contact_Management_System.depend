@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1721564429 source:d:\mansourarobotics\training\contact management system\contact_management_system\contact_layer\check_data_module\check_data.c
+	"Check_Data.h"
+
+1721539114 d:\mansourarobotics\training\contact management system\contact_management_system\contact_layer\check_data_module\check_data.h
+	"../../low_level_layer/Linked_List.h"
+
+1721454620 d:\mansourarobotics\training\contact management system\contact_management_system\low_level_layer\linked_list.h
+	"Std_Libraries.h"
+	"DataType.h"
+
+1721463043 d:\mansourarobotics\training\contact management system\contact_management_system\low_level_layer\std_libraries.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<windows.h>
+	<unistd.h>
+
+1721471375 source:d:\mansourarobotics\training\contact management system\contact_management_system\contact_layer\contact_info_module\contact_info.c
+	"Contact_Info.h"
+
+1721538905 d:\mansourarobotics\training\contact management system\contact_management_system\contact_layer\contact_info_module\contact_info.h
+	"../../low_level_layer/Linked_List.h"
+
+1721565519 source:d:\mansourarobotics\training\contact management system\contact_management_system\low_level_layer\linked_list.c
+	"Linked_List.h"
+
+1721564469 source:d:\mansourarobotics\training\contact management system\contact_management_system\main.c
+	"main.h"
+
+1721474931 d:\mansourarobotics\training\contact management system\contact_management_system\main.h
+	"contact_layer/Check_Data_Module/Check_Data.h"
+	"contact_layer/Contact_Info_Module/Contact_Info.h"
+
+1714104189 d:\mansourarobotics\training\contact management system\contact_management_system\low_level_layer\datatype.h
+
+1721456126 source:d:\mansourarobotics\training\contact management system\contact_management_system\data_base_layer\data_base.c
+	"Data_Base.h"
+
+1721456136 d:\mansourarobotics\training\contact management system\contact_management_system\data_base_layer\data_base.h
+	"../low_level_layer/Linked_List.h"
+
